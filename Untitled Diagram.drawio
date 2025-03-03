@@ -1,9 +1,65 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="2">
   <diagram name="Page-1" id="nxM6fztyP1b-s1cVQXBj">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="c1_BmvHmsAyiuwq37oQ3-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-40" width="640" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="c1_BmvHmsAyiuwq37oQ3-1" value="Kaggle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="370" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c1_BmvHmsAyiuwq37oQ3-2" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;u&gt;Free GPU Access&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;• GPU T4 x2 : 30h/week&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;• GPU P100 : 30h/week&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;• TPU VM v3-8 : 20h/week&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="100" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c1_BmvHmsAyiuwq37oQ3-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fontStyle=1;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c1_BmvHmsAyiuwq37oQ3-5" value="Vast collection of datasets&lt;div&gt;+&lt;/div&gt;&lt;div&gt;200 GB of Free Dataset Upload&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c1_BmvHmsAyiuwq37oQ3-7" value="Limited Customization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="490" y="100" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c1_BmvHmsAyiuwq37oQ3-8" value="Requires an internet connection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="490" y="220" width="240" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fA-3I_WTDeq5mca1edWi" name="Page-2">
+    <mxGraphModel dx="1050" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x4_f3abep3Ff4Xp-8Dmm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-40" width="640" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="x4_f3abep3Ff4Xp-8Dmm-2" value="Kaggle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="370" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x4_f3abep3Ff4Xp-8Dmm-3" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;u&gt;Free GPU Access&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;• GPU T4 x2 : 30h/week&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;• GPU P100 : 30h/week&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;• TPU VM v3-8 : 20h/week&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="100" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x4_f3abep3Ff4Xp-8Dmm-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fontStyle=1;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x4_f3abep3Ff4Xp-8Dmm-5" value="Vast collection of datasets&lt;div&gt;+&lt;/div&gt;&lt;div&gt;200 GB of Free Dataset Upload&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x4_f3abep3Ff4Xp-8Dmm-6" value="Limited Customization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="490" y="100" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x4_f3abep3Ff4Xp-8Dmm-7" value="Requires an internet connection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="490" y="220" width="240" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
